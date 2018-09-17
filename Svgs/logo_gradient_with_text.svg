@@ -1,18 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 580 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <g transform="matrix(1.56827,0,0,1.56827,3.30994,1.86619)">
-        <path d="M93.754,50.218C92.185,32.982 74.377,28.417 74.377,28.417L31.143,28.27L31.482,115.344L12.098,115.591C12.098,115.591 11.805,9.458 12.027,9.218C12.249,8.978 73.989,8.971 73.989,8.971C73.989,8.971 105.183,12.087 112.529,44.023L113.163,47.205L104.144,48.653L93.763,50.319C113.149,47.183 93.84,50.29 113.163,47.205L113.45,58.189L75.477,96.228L116.739,96.582L98.8,115.276L42.576,115.256L42.801,81.612L61.551,63.221L61.912,80.867L93.763,50.319L93.754,50.218ZM42.417,60.166L42.422,76.435L62.119,57.396L62.114,41.127L42.417,60.166Z" style="fill:url(#_Linear1);stroke:white;stroke-opacity:0;stroke-width:0.48px;"/>
-    </g>
-    <g transform="matrix(1.29568,0,0,1.29568,201.431,11.9884)">
-        <g>
-            <text x="0px" y="57.125px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:74.092px;fill:url(#_Linear2);">Remote</text>
-            <text x="0px" y="131.217px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:74.092px;fill:url(#_Linear3);">Meetup</text>
-        </g>
-    </g>
-    <defs>
-        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(104.795,0,0,106.62,11.9438,62.2807)"><stop offset="0" style="stop-color:rgb(0,87,156);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(39,168,224);stop-opacity:1"/></linearGradient>
-        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(500,0,0,100,0,50)"><stop offset="0" style="stop-color:rgb(39,168,224);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,87,156);stop-opacity:1"/></linearGradient>
-        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(500,0,0,100,0,50)"><stop offset="0" style="stop-color:rgb(39,168,224);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,87,156);stop-opacity:1"/></linearGradient>
-    </defs>
+<svg viewBox="0 0 580 200" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5">
+  <path d="M93.754 50.218c-1.569-17.236-19.377-21.801-19.377-21.801l-43.234-.147.339 87.074-19.384.247S11.805 9.458 12.027 9.218c.222-.24 61.962-.247 61.962-.247s31.194 3.116 38.54 35.052l.634 3.182-9.019 1.448-10.381 1.666c19.386-3.136.077-.029 19.4-3.114l.287 10.984-37.973 38.039 41.262.354L98.8 115.276l-56.224-.02.225-33.644 18.75-18.391.361 17.646 31.851-30.548-.009-.101zm-51.337 9.948l.005 16.269 19.697-19.039-.005-16.269-19.697 19.039z" fill="url(#_Linear1)" transform="translate(3.31 1.866) scale(1.56827)"/>
+  <g font-family="'LucidaGrande','Lucida Grande',sans-serif" font-weight="500" font-size="74.092">
+    <text y="57.125" fill="url(#_Linear2)" transform="translate(201.431 11.988) scale(1.29568)">
+      Remote
+    </text>
+    <text y="131.217" fill="url(#_Linear3)" transform="translate(201.431 11.988) scale(1.29568)">
+      Meetup
+    </text>
+  </g>
+  <defs>
+    <linearGradient id="_Linear1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(104.795 0 0 106.62 11.944 62.28)">
+      <stop offset="0" stop-color="#00579c"/>
+      <stop offset="1" stop-color="#27a8e0"/>
+    </linearGradient>
+    <linearGradient id="_Linear2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(500 0 0 100 0 50)">
+      <stop offset="0" stop-color="#27a8e0"/>
+      <stop offset="1" stop-color="#00579c"/>
+    </linearGradient>
+    <linearGradient id="_Linear3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(500 0 0 100 0 50)">
+      <stop offset="0" stop-color="#27a8e0"/>
+      <stop offset="1" stop-color="#00579c"/>
+    </linearGradient>
+  </defs>
 </svg>
